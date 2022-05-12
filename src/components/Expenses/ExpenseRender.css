@@ -1,0 +1,23 @@
+.expenses {
+	padding: 1rem;
+	background-color: rgb(31, 31, 31);
+	margin: 2rem auto;
+	width: 50rem;
+	max-width: 95%;
+}
+
+.label {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: #ffff;
+	font-size: 26px;
+}
+
+p {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: #fff;
+	font-size: 28px;
+}
